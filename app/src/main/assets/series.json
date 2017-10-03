@@ -1,0 +1,95 @@
+{
+  "status": 200,
+  "msg": "OK",
+  "result": {
+    "folders": [
+      {
+        "id": "4260666",
+        "name": "Band of Brothers",
+        "image": "2130837573"
+      },
+      {
+        "id": "4268296",
+        "name": "Better Call Saul",
+        "image": "2130837574"
+      },
+      {
+        "id": "4259367",
+        "name": "Billions",
+        "image": "2130837575"
+      },
+      {
+        "id": "4264867",
+        "name": "Black Mirror",
+        "image": "2130837576"
+      },
+      {
+        "id": "4264864",
+        "name": "Breaking Bad",
+        "image": "2130837577"
+      },
+      {
+        "id": "4274966",
+        "name": "F.R.I.E.N.D.S",
+        "image": "2130837580"
+      },
+      {
+        "id": "4262588",
+        "name": "Fullmetal Alchemist Brotherhood",
+        "image": "2130837581"
+      },
+      {
+        "id": "4262331",
+        "name": "Halt and Catch Fire",
+        "image": "2130837582"
+      },
+      {
+        "id": "4259340",
+        "name": "Legion",
+        "image": "2130837583"
+      },
+      {
+        "id": "4259620",
+        "name": "Narcos",
+        "image": "2130837584"
+      },
+      {
+        "id": "4259693",
+        "name": "Random",
+        "image": "4259693"
+      },
+      {
+        "id": "4265625",
+        "name": "Shameless",
+        "image": "2130837587"
+      },
+      {
+        "id": "4259162",
+        "name": "The Wire",
+        "image": "2130837588"
+      },
+      {
+        "id": "4259342",
+        "name": "Rick and Morty",
+        "image": "2130837585"
+      },
+      {
+        "id": "4263665",
+        "name": "Weeds",
+        "image": "2130837577"
+      },
+      {
+        "id": "4262201",
+        "name": "The Big Bang Theory",
+        "image": "2130837587"
+      },
+      {
+        "id": "4260667",
+        "name": "Westworld",
+        "image": "2130837590"
+      }
+    ],
+    "files": [
+    ]
+  }
+}
